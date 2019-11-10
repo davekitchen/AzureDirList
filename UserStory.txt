@@ -1,0 +1,6 @@
+As a user I would like some simple PowerShell code which will find all the storage accounts in my Azure subscription. 
+It will interrogate the storage accounts and find all the containers and finally it will find all the storage blobs.
+I then want a tab delimited or some kind of easily manipulated output on the list of files that have been discovered. 
+Basically, I want this to be like a directory listing. I can then use this information to work out if there are any files 
+out of date or as a general find out what I have currently got up in Azure stored.
+I’ll be taking this code and cutting it up for other projects.
